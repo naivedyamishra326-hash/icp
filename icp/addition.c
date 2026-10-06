@@ -1,4 +1,4 @@
-nt main() {
+int main() {
     int a, b, sum, difference, product ,remainder;
     float quotient;
     
